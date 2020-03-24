@@ -4,6 +4,7 @@
 
 심병준: https://github.com/hotan486/android_study.git
 
+지휘찬: https://github.com/HwiChance/Android_Group_Study
 
 - 코틀린 중요 정도.
   - [코틀린은 무엇??](https://velog.io/@hyejineeee/-%EC%BD%94%ED%8B%80%EB%A6%B0-kotlin-%EC%9D%80-%EB%AC%B4%EC%97%87)
