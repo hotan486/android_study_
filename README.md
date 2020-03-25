@@ -9,6 +9,7 @@
 ## 스터디를 위한 참조 사이트 정리
 
 - [깃 크라켄](https://www.gitkraken.com/) 
+- [비주얼 스튜디오 코드](https://code.visualstudio.com/)
 
 ## 스터디 링크 
 
