@@ -10,6 +10,7 @@
 
 - [깃 크라켄](https://www.gitkraken.com/) 
 - [비주얼 스튜디오 코드](https://code.visualstudio.com/)
+- [깡샘의 안드로이드 프로그래밍](https://github.com/kkangseongyun/kkangs_android_2019)
 
 ## 스터디 링크 
 
