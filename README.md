@@ -4,7 +4,7 @@
 
 - [안드로이드 스튜디오 설치](https://developer.android.com/studio/install?hl=ko)
 - [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-- [깃 사용법])https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
+- [깃 사용법](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
 ## 스터디 링크 
 
 심병준: https://github.com/hotan486/android_study.git
