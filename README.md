@@ -4,13 +4,16 @@
 
 - [안드로이드 스튜디오 설치](https://developer.android.com/studio/install?hl=ko)
 - [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-- [깃 사용법](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
+- [깃 공식 가이드](https://git-scm.com/book/ko/v2)
 
 ## 스터디를 위한 참조 사이트 정리
 
 - [깃 크라켄](https://www.gitkraken.com/) 
 - [비주얼 스튜디오 코드](https://code.visualstudio.com/)
 - [깡샘의 안드로이드 프로그래밍](https://github.com/kkangseongyun/kkangs_android_2019)
+- [깃 북](https://www.gitbook.com/)
+- [깃북을 이용한 e북 만들기](https://advenoh.tistory.com/1)
+
 
 ## 스터디 링크 
 
