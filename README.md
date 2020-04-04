@@ -21,10 +21,16 @@
 
 지휘찬: https://github.com/HwiChance/Android_Group_Study
 
-## 코틀린 참조 문서 
+## 안드로이드 앱 코틀린 참조 문서 
+- [코틀린은 무엇??](https://velog.io/@hyejineeee/-%EC%BD%94%ED%8B%80%EB%A6%B0-kotlin-%EC%9D%80-%EB%AC%B4%EC%97%87)
+- [코틀린, 꼭 해야 하나요?](https://gun0912.tistory.com/81)
+- [코틀린, 자바 차이점 비교](https://dev-imaec.tistory.com/m/36?category=723791)
+- [떠오르는 자바 대체제, 코틀린 제대로 이해하기](http://www.itworld.co.kr/print/107046)
+  
+## 안드로이드 앱 레이아웃 참조 문서 
+- [다양한 화면 크기 지원](https://developer.android.com/training/multiscreen/screensizes?hl=ko)
+- [만능 레이아웃](https://www.charlezz.com/?p=669)
+- [ConstraintLayout Tutorial](https://developer.android.com/training/multiscreen/screensizes?hl=ko)
 
-- 코틀린 중요 정도.
-  - [코틀린은 무엇??](https://velog.io/@hyejineeee/-%EC%BD%94%ED%8B%80%EB%A6%B0-kotlin-%EC%9D%80-%EB%AC%B4%EC%97%87)
-  - [코틀린, 꼭 해야 하나요?](https://gun0912.tistory.com/81)
-  - [코틀린, 자바 차이점 비교](https://dev-imaec.tistory.com/m/36?category=723791)
-  - [떠오르는 자바 대체제, 코틀린 제대로 이해하기](http://www.itworld.co.kr/print/107046)
+
+ 
