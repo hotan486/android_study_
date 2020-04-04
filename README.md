@@ -1,11 +1,15 @@
 # android_study_
 
+# 안드로이드 필수 문서
+- [안드로이드 공식문서](https://developer.android.com/guide?hl=ko)
+- [안드로이드 공식 튜토리얼](https://developer.android.com/training/basics/firstapp?hl=ko)
+
 ## 스터디를 위한 기본 사이트 정리
 
 - [안드로이드 스튜디오 설치](https://developer.android.com/studio/install?hl=ko)
 - [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 - [깃 공식 가이드](https://git-scm.com/book/ko/v2)
-- [안드로이드 공식문서](https://developer.android.com/guide?hl=ko)
+
 ## 스터디를 위한 참조 사이트 정리
 
 - [깃 크라켄](https://www.gitkraken.com/) 
