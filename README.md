@@ -27,6 +27,8 @@
 
 김동현: https://github.com/kdh-study/Android
 
+김동기: https://github.com/kdkrkwhr/android
+
 ## 안드로이드 앱 코틀린 참조 문서 
 - [코틀린은 무엇??](https://velog.io/@hyejineeee/-%EC%BD%94%ED%8B%80%EB%A6%B0-kotlin-%EC%9D%80-%EB%AC%B4%EC%97%87)
 - [코틀린, 꼭 해야 하나요?](https://gun0912.tistory.com/81)
